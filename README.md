@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/33dbb48a-ab53-46d3-b703-f8998ceb257b
 - **Aziz Önder**: *Scrum Master* / *Product Owner* / *Developer*
 - **Beyza Özkan**: *Developer*
 - **Aybaran Yurtseven**: *Developer*
-- **Ayberk Yaşar**: *Developer* *Level and UI Designer*
+- **Ayberk Yaşar**: *Developer* /*Level and UI Designer*
 - **Simay Yılmaz**: *3D Artist*
   
 
